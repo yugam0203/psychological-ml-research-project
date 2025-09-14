@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+.Trash/
+Library/
+Pictures/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+
