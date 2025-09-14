@@ -1,6 +1,6 @@
 # Ensemble and Hybrid Machine Learning for Psychological Prediction
 
-This repository contains the full project for my Master's in Computer Science (MCS):
+This repository contains the full project for my Master's in Computer Application (MCa):
 **"Ensemble and Hybrid Machine Learning Model for Interpretable Classification of Psychological Constructs Using DASS-21, SWLS, and BFI-10"**.
 
 ## 📌 Project Overview
